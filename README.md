@@ -1,1 +1,2 @@
-# Application-for-classesThis is a simple Application for classes using mySQL
+# Application-for-classes
+This is a simple Application for classes using mySQL
