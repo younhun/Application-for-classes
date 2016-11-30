@@ -1,0 +1,10 @@
+1 oop1 A+
+2 oop2 A+
+3 mechanic1 A
+4 mechanic2 A
+5 chemistry1 B
+6 chemistry2 B
+7 design1 B+
+8 design2 B+
+9 english1 C
+10 english2 C
